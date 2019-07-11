@@ -7,7 +7,7 @@ import './index.css';
 class Logo extends React.Component {
   render() {
     return <div className="logo">
-                <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" alt="Logo" />
+                <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" alt="Logo"/>
               </div>
   }
 }

@@ -27,6 +27,10 @@ body {
   text-transform: uppercase;
 }
 
+.logo img {
+  height: 40px;
+}
+
 .LoginPanel {
   position: absolute;
   top: 40%;
